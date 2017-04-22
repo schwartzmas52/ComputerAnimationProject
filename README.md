@@ -1,6 +1,6 @@
 # ComputerAnimationProject
 
-To run to this program simply open the .app file on MacOS 10.8 or later.
+To run this program simply open the .app on MacOS 10.8 or later.
 
 Select a .skel file from your local directory using the “Select .skel” button select a corresponding .skin file using the “Select .skin” button. Use the rotate and zoom buttons to look at the object from different angles and distances. (The rotation buttons rotate the object along the specified axis).
 
